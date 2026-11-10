@@ -25,3 +25,4 @@
 | 2026-11-10 | account-profile / tech-stack | Q20回答（既存のInstagramアカウントを使う）を反映 | オーナー回答 | — |
 | 2026-11-10 | tech-stack / compliance / roles / quality-policy | Q21回答（AI音声のナレーション、顔出しなし）を反映 | オーナー回答 | — |
 | 2026-11-10 | platforms | Q22回答（リール週2〜3本、Threads毎日1〜2投稿）を反映 | オーナー回答 | — |
+| 2026-11-10 | approval-policy / platforms | Q23回答（Threadsの日々の投稿は1週間分をまとめて承認）を反映。承認ゲートGTを追加 | オーナー回答 | 承認済み |
