@@ -11,4 +11,5 @@
 | Q7 | A・B・Cのどれを採用するか？ | （保留）オーナーから「Threadsにノート販売したい」と追加の要望 | — |
 | Q7-1 | 「Threadsにノート販売したい」の意味の確認（媒体と商品） | 3. InstagramとThreadsの両方で発信し、自分のnoteを売る（アフィリエイトの扱いは未回答） | `rules/account-profile.md`, `rules/kpi.md`, `rules/compliance.md` に影響 |
 | Q8 | 売りたいnoteはもうあるか？（テーマ・価格） | 3. まだ何も決まっていない（一緒に考えたい）。あわせて「アフィリエイトは無し」 | `rules/account-profile.md`, `rules/compliance.md`, `rules/note-product.md` |
-| Q9 | Threads・SNS副業の実際の経験・実績は？ | （回答待ち） | |
+| Q9 | Threads・SNS副業の実際の経験・実績は？ | Threadsはこれから始める（運用歴・実績なし）。ほかのSNS・副業の経験、得意なことは未回答 | `rules/account-profile.md`, `rules/note-product.md`, `rules/ng-expressions.md` |
+| Q10 | ほかのSNS・副業・本業の経験や、得意なことは？ | （回答待ち） | |

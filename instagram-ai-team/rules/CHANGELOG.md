@@ -11,3 +11,4 @@
 | 2026-11-10 | tone-and-structure.md | Q6回答を受けて、トーンと構成の候補3パターンを作成（選択待ち） | AI提案 | 未承認 |
 | 2026-11-10 | account-profile / kpi / compliance / platforms / roles | Q7-1回答（Instagram＋Threadsでnote販売）を反映。R23・R24・R25・R26をThreadsにも対応させ、28名体制は維持 | オーナー回答 | — |
 | 2026-11-10 | account-profile / compliance / tone-and-structure / roles / note-product | Q8回答（アフィリエイトは無し、noteは未定）を反映。アフィリエイト関連を外し、note設計ファイルを新規作成 | オーナー回答 | — |
+| 2026-11-10 | account-profile / note-product / ng-expressions | Q9回答（Threadsはこれから始める）を反映。発信の立ち位置案、noteの方向性3案、実績を装う表現のNG案を追加 | オーナー回答＋AI提案 | 一部未承認 |
