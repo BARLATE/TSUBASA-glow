@@ -23,3 +23,4 @@
 | 2026-11-10 | approval-policy / workflow | Q18回答により承認ルール（G1〜G4＋随時）を確定 | オーナー回答 | 承認済み |
 | 2026-11-10 | tech-stack / roles | Q19回答（API連携で自動化）を反映。実行環境の構成案、準備チェックリスト、トークン管理のルールを作成 | オーナー回答 | — |
 | 2026-11-10 | account-profile / tech-stack | Q20回答（既存のInstagramアカウントを使う）を反映 | オーナー回答 | — |
+| 2026-11-10 | tech-stack / compliance / roles / quality-policy | Q21回答（AI音声のナレーション、顔出しなし）を反映 | オーナー回答 | — |
