@@ -15,4 +15,5 @@
 | Q10 | ほかのSNS・副業・本業の経験や、得意なことは？ | なし | `rules/account-profile.md`, `rules/note-product.md` |
 | Q11 | noteの方向性は①実践記録型と③段階型のどちらか？ | ③ 段階型 | `rules/note-product.md`, `rules/kpi.md` |
 | Q12 | 有料noteに切り替える基準は？ | 5. 固定の基準は決めず、月1回のレポートを見てオーナーが判断する | `rules/note-product.md`, `team/roles.md`（R26・R27・R28） |
-| Q7（再） | トーンと構成はA・B・Cのどれにするか？ | （回答待ち） | |
+| Q7（再）/Q13 | トーンと構成はA・B・Cのどれにするか？ | A：等身大の実践者（一人称は未回答） | `rules/tone-and-structure.md` |
+| Q14 | 一人称と、視聴者への呼びかけ方は？ | （回答待ち） | |
