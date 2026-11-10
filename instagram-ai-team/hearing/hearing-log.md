@@ -10,4 +10,5 @@
 | Q6 | 参考にしたい台本（トーンと構成）は？ | 4. お手本はない → AIが3パターン（A実践者／B解説者／Cテンポ重視）を作成 | `rules/tone-and-structure.md` |
 | Q7 | A・B・Cのどれを採用するか？ | （保留）オーナーから「Threadsにノート販売したい」と追加の要望 | — |
 | Q7-1 | 「Threadsにノート販売したい」の意味の確認（媒体と商品） | 3. InstagramとThreadsの両方で発信し、自分のnoteを売る（アフィリエイトの扱いは未回答） | `rules/account-profile.md`, `rules/kpi.md`, `rules/compliance.md` に影響 |
-| Q8 | 売りたいnoteはもうあるか？（テーマ・価格） | （回答待ち） | |
+| Q8 | 売りたいnoteはもうあるか？（テーマ・価格） | 3. まだ何も決まっていない（一緒に考えたい）。あわせて「アフィリエイトは無し」 | `rules/account-profile.md`, `rules/compliance.md`, `rules/note-product.md` |
+| Q9 | Threads・SNS副業の実際の経験・実績は？ | （回答待ち） | |
