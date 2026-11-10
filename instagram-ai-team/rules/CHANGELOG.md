@@ -14,3 +14,4 @@
 | 2026-11-10 | account-profile / note-product / ng-expressions | Q9回答（Threadsはこれから始める）を反映。発信の立ち位置案、noteの方向性3案、実績を装う表現のNG案を追加 | オーナー回答＋AI提案 | 一部未承認 |
 | 2026-11-10 | account-profile / note-product | Q10回答（ほかの経験なし）を反映し、note案②を対象外にした | オーナー回答 | — |
 | 2026-11-10 | note-product / kpi | Q11回答（③段階型）を反映。フェーズ1・2の定義と、noteの材料をためる仕組みを追加 | オーナー回答 | — |
+| 2026-11-10 | note-product / roles | Q12回答（月次レポートでオーナーが判断）を反映。月次の有料化判断レポートを定義 | オーナー回答 | — |
