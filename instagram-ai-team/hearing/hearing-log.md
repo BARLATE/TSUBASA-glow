@@ -13,4 +13,5 @@
 | Q8 | 売りたいnoteはもうあるか？（テーマ・価格） | 3. まだ何も決まっていない（一緒に考えたい）。あわせて「アフィリエイトは無し」 | `rules/account-profile.md`, `rules/compliance.md`, `rules/note-product.md` |
 | Q9 | Threads・SNS副業の実際の経験・実績は？ | Threadsはこれから始める（運用歴・実績なし）。ほかのSNS・副業の経験、得意なことは未回答 | `rules/account-profile.md`, `rules/note-product.md`, `rules/ng-expressions.md` |
 | Q10 | ほかのSNS・副業・本業の経験や、得意なことは？ | なし | `rules/account-profile.md`, `rules/note-product.md` |
-| Q11 | noteの方向性は①実践記録型と③段階型のどちらか？ | （回答待ち） | |
+| Q11 | noteの方向性は①実践記録型と③段階型のどちらか？ | ③ 段階型 | `rules/note-product.md`, `rules/kpi.md` |
+| Q12 | 有料noteに切り替える基準は？ | （回答待ち） | |
