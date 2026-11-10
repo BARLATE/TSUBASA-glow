@@ -8,4 +8,5 @@
 | Q4 | 誘導先（売りたい商品・サービス）は？ | 5. アフィリエイト（他社の商品・サービスの紹介） | `rules/account-profile.md`, `rules/compliance.md`（初期案） |
 | Q5 | 紹介する商品・サービスのジャンルと、使うASPは？ | 決まっていない（ASPの登録状況も未回答） | `rules/account-profile.md`, `team/roles.md`（R01・R02の追加タスク） |
 | Q6 | 参考にしたい台本（トーンと構成）は？ | 4. お手本はない → AIが3パターン（A実践者／B解説者／Cテンポ重視）を作成 | `rules/tone-and-structure.md` |
-| Q7 | A・B・Cのどれを採用するか？ | （回答待ち） | |
+| Q7 | A・B・Cのどれを採用するか？ | （保留）オーナーから「Threadsにノート販売したい」と追加の要望 | — |
+| Q7-1 | 「Threadsにノート販売したい」の意味の確認（媒体と商品） | （回答待ち） | `rules/account-profile.md`, `rules/kpi.md`, `rules/compliance.md` に影響 |
