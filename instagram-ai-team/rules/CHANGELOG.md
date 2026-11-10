@@ -24,3 +24,4 @@
 | 2026-11-10 | tech-stack / roles | Q19回答（API連携で自動化）を反映。実行環境の構成案、準備チェックリスト、トークン管理のルールを作成 | オーナー回答 | — |
 | 2026-11-10 | account-profile / tech-stack | Q20回答（既存のInstagramアカウントを使う）を反映 | オーナー回答 | — |
 | 2026-11-10 | tech-stack / compliance / roles / quality-policy | Q21回答（AI音声のナレーション、顔出しなし）を反映 | オーナー回答 | — |
+| 2026-11-10 | platforms | Q22回答（リール週2〜3本、Threads毎日1〜2投稿）を反映 | オーナー回答 | — |

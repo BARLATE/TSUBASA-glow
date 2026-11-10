@@ -24,4 +24,5 @@
 | Q19 | 編集・投稿を実際に行う環境（ツール・API・手動） | 2. API連携で投稿まで自動化する（Instagramアカウントの有無は未回答） | `rules/tech-stack.md`, `team/roles.md`（R24） |
 | Q20 | Instagramのアカウントは新規か既存か？ | 2. 既存のアカウントを使う（アカウントの種類・フォロワー数は未回答 → API連携時に確認） | `rules/account-profile.md`, `rules/tech-stack.md` |
 | Q21 | ナレーションと顔出しはどうするか？ | 2. AI音声（音声合成）でナレーションを入れる（顔出しなし） | `rules/tech-stack.md`, `rules/compliance.md`, `team/roles.md`（R21） |
-| Q22 | 投稿の頻度は？ | （回答待ち） | |
+| Q22 | 投稿の頻度は？ | 2. リール週2〜3本、Threads毎日1〜2投稿 | `rules/platforms.md` |
+| Q23 | リールと関係ないThreadsだけの日々の投稿の承認方法は？ | （回答待ち） | |
