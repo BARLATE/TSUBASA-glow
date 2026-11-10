@@ -26,3 +26,4 @@
 | 2026-11-10 | tech-stack / compliance / roles / quality-policy | Q21回答（AI音声のナレーション、顔出しなし）を反映 | オーナー回答 | — |
 | 2026-11-10 | platforms | Q22回答（リール週2〜3本、Threads毎日1〜2投稿）を反映 | オーナー回答 | — |
 | 2026-11-10 | approval-policy / platforms | Q23回答（Threadsの日々の投稿は1週間分をまとめて承認）を反映。承認ゲートGTを追加 | オーナー回答 | 承認済み |
+| 2026-11-10 | schedule / note-product / platforms / workflow | Q24回答（おまかせ）により、週次は日曜日・月次は毎月1日に決定。受付時の確認項目を確定済みの前提に合わせて更新 | オーナー回答 | 承認済み |

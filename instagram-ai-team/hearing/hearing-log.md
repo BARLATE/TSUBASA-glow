@@ -26,4 +26,4 @@
 | Q21 | ナレーションと顔出しはどうするか？ | 2. AI音声（音声合成）でナレーションを入れる（顔出しなし） | `rules/tech-stack.md`, `rules/compliance.md`, `team/roles.md`（R21） |
 | Q22 | 投稿の頻度は？ | 2. リール週2〜3本、Threads毎日1〜2投稿 | `rules/platforms.md` |
 | Q23 | リールと関係ないThreadsだけの日々の投稿の承認方法は？ | 2. 1週間分をまとめて承認する | `rules/approval-policy.md`, `rules/platforms.md` |
-| Q24 | 週次・月次の定例の曜日・日付は？ | （回答待ち） | |
+| Q24 | 週次・月次の定例の曜日・日付は？ | おまかせ → 週次は日曜日、月次レポートは毎月1日（前月分） | `rules/schedule.md` |
