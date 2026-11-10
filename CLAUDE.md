@@ -13,3 +13,8 @@
 - 運用ルール: `.claude/instagram/rules/`（goals・tone・ng-expressions・plan-ng・quality・metrics・workflow）。
   ユーザーが条件を足したら、該当ファイルの表に1行足し、履歴に日付を書いてコミットする。
 - 根拠のない数字・事実は作らない。承認ゲート（テーマ・台本・投稿前）は必ずユーザーに確認する。
+
+## Threads（2026-11-10 から優先）
+
+- Threads を先に始め、Instagram のリールは後で。流れは `.claude/instagram/rules/threads-workflow.md`。
+- 商品のおすすめ説明＋楽天アフィリエイトの URL を投稿する形。PR 表示を必ず入れる。
