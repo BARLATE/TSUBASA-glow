@@ -6,6 +6,10 @@ platform:
   format: 記事（文章＋画像）
   video: 対象外（動画系担当は記事向けに役割を読み替え。確定前）
 bottleneck: 未回答          # いちばん時間がかかっている工程
+genre:
+  status: 未定（リサーチ推奨で選定中。research/2026-11-12_genre-candidates.md）
+  audience: 未定
+  products: 未定
 goals:
   primary: 有料コンテンツの売上（有料記事／マガジン／メンバーシップ）  # Q2回答: A
   secondary: 未回答
@@ -13,3 +17,4 @@ goals:
 changelog:
   - 2026-11-12: Q1回答により媒体をnote記事に確定
   - 2026-11-12: Q2回答により主目的を有料コンテンツ売上に確定
+  - 2026-11-12: Q3回答「未定・リサーチおすすめ」。ジャンル候補リサーチを追加
