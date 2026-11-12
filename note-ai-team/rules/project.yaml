@@ -1,0 +1,11 @@
+# note運用AIチーム：プロジェクト基本設定
+# 更新方法：該当項目を書き換え、changelog に1行追記してください。
+version: 0.1
+platform:
+  primary: note            # 確定（Q1回答: A）
+  format: 記事（文章＋画像）
+  video: 対象外（動画系担当は記事向けに役割を読み替え。確定前）
+bottleneck: 未回答          # いちばん時間がかかっている工程
+goals: 未回答               # Q2で確認中
+changelog:
+  - 2026-11-12: Q1回答により媒体をnote記事に確定
