@@ -1,11 +1,15 @@
 # note運用AIチーム：プロジェクト基本設定
 # 更新方法：該当項目を書き換え、changelog に1行追記してください。
-version: 0.1
+version: 0.2
 platform:
   primary: note            # 確定（Q1回答: A）
   format: 記事（文章＋画像）
   video: 対象外（動画系担当は記事向けに役割を読み替え。確定前）
 bottleneck: 未回答          # いちばん時間がかかっている工程
-goals: 未回答               # Q2で確認中
+goals:
+  primary: 有料コンテンツの売上（有料記事／マガジン／メンバーシップ）  # Q2回答: A
+  secondary: 未回答
+  targets: 未定             # 数値目標はユーザー指定のみ。AIが創作しない
 changelog:
   - 2026-11-12: Q1回答により媒体をnote記事に確定
+  - 2026-11-12: Q2回答により主目的を有料コンテンツ売上に確定
